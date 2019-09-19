@@ -1,6 +1,25 @@
-# like_hod
+# Amazing Blue Theme Flutter
 
-A new Flutter project.
+## Splash Screen
+![](screens/1.jpg)
+
+## Home
+![](screens/2.jpg)
+
+## Floating Action Button
+![](screens/7.jpg)
+
+## Drawer
+![](screens/3.jpg)
+
+## My Order
+![](screens/4.jpg)
+
+## Order Details
+![](screens/5.jpg)
+
+## Order Details
+![](screens/6.jpg)
 
 ## Getting Started
 
